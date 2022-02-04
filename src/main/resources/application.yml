@@ -9,4 +9,6 @@ spring:
     console:
       path: /h2-console
       enabled: true
-  
+springdoc:
+  api-docs:
+    path: /api-docs
