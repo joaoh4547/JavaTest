@@ -1,5 +1,14 @@
 # Teste de seleção para vaga de Java
 
+#### Documentação disponível no caminho ``/swagger-ui/index.html``
+#### Banco de dados em memoria disponivem no caminho ``/h2-console``
+
+``` 
+  Dados de acesso do banco de dados
+  JDBC URL: jdbc:h2:mem:testdb
+  username : sa
+  password: em branco
+```
 ## Faça um fork desse projeto e siga as instruções a seguir utilizando esse projeto.
 
 # Pré-requisitos
